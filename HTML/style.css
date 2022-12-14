@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Swiss721' ;
+    src: url(fonts/Swiss\ 721\ Black\ Extended\ BT.ttf);
+}
+
+h1 {
+    font-family: 'Swiss721', sans-serif;
+    font-size: 30px;
+}
