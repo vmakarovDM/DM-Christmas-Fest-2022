@@ -3,7 +3,28 @@
     src: url(fonts/Swiss\ 721\ Black\ Extended\ BT.ttf);
 }
 
+@font-face {
+    font-family: 'Orator' ;
+    src: url(fonts/OratorStd.ttf);
+}
+
 h1 {
     font-family: 'Swiss721', sans-serif;
     font-size: 30px;
+}
+
+h5 {
+    font-family: 'Orator', sans-serif;
+    font-size: 16px;
+}
+
+div {
+    font-family: 'Orator', sans-serif;
+    font-size: 16px;
+}
+
+button {
+    font-family: 'Swiss721', sans-serif;
+    font-size: 16px;
+    color: orangered;
 }
